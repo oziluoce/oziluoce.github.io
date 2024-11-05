@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oziluoce.github.io/CoZ/sitemap_index.txt
+Sitemap: https://oziluoce.github.io/PgY/sitemap_index.txt
+Sitemap: https://oziluoce.github.io/YVA/sitemap_index.txt
+Sitemap: https://oziluoce.github.io/pMC/sitemap_index.txt
